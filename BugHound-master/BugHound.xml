@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Buginfo> 
+	<"BugID">"1019"</"BugID">
+	<"ProgramName">"java"</"ProgramName">
+	<"Release_">"1"</"Release_">
+	<"Version">"1.01"</"Version">
+	<"ReportType">"Coding Error"</"ReportType">
+	<"Severity">"Fatal"</"Severity">
+	<"ProblemSummary">"fseeffsfseff"</"ProblemSummary">
+	<"Reproducible">"Yes"</"Reproducible">
+	<"Problem">"efjbsshzkjsrhk          "</"Problem">
+	<"SuggestedFix">"afsekfehfkjshgkjhgk "</"SuggestedFix">
+	<"ReportedBy">"KSB"</"ReportedBy">
+	<"ReportedDate">"2015-06-30"</"ReportedDate">
+	<"FunctionalArea">""</"FunctionalArea">
+	<"AssignedTo">"KSB"</"AssignedTo">
+	<"Comments">" okokokokok"</"Comments">
+	<"Status">"Closed"</"Status">
+	<"Priority">"Fix"</"Priority">
+	<"Resolution">"Withdrawn by reporter"</"Resolution">
+	<"ResolutionVersion">"1.01"</"ResolutionVersion">
+	<"ResolvedBy">"KSB"</"ResolvedBy">
+	<"ResolvedDate">"2015-06-30"</"ResolvedDate">
+	<"TestedBy">"KSB"</"TestedBy">
+	<"TestedDate">"2015-06-30"</"TestedDate">
+	<"TreatAsDeffered">"No"</"TreatAsDeffered">
+	<"Attachment">""</"Attachment">
+</Buginfo> 
+<Buginfo> 
+	<"BugID">"1020"</"BugID">
+	<"ProgramName">"java"</"ProgramName">
+	<"Release_">"1"</"Release_">
+	<"Version">"1.01"</"Version">
+	<"ReportType">"Coding Error"</"ReportType">
+	<"Severity">"Fatal"</"Severity">
+	<"ProblemSummary">"okokokokok"</"ProblemSummary">
+	<"Reproducible">"No"</"Reproducible">
+	<"Problem">"fsjkjgk        "</"Problem">
+	<"SuggestedFix">" ffesff"</"SuggestedFix">
+	<"ReportedBy">"Mike"</"ReportedBy">
+	<"ReportedDate">"2015-06-28"</"ReportedDate">
+	<"FunctionalArea">""</"FunctionalArea">
+	<"AssignedTo">"KSB"</"AssignedTo">
+	<"Comments">""</"Comments">
+	<"Status">"Open"</"Status">
+	<"Priority">""</"Priority">
+	<"Resolution">"Fixed"</"Resolution">
+	<"ResolutionVersion">"1.01"</"ResolutionVersion">
+	<"ResolvedBy">"KSB"</"ResolvedBy">
+	<"ResolvedDate">"2015-06-28"</"ResolvedDate">
+	<"TestedBy">"KSB"</"TestedBy">
+	<"TestedDate">"2015-06-28"</"TestedDate">
+	<"TreatAsDeffered">"No"</"TreatAsDeffered">
+	<"Attachment">""</"Attachment">
+</Buginfo> 
+<Buginfo> 
+	<"BugID">"1021"</"BugID">
+	<"ProgramName">"java"</"ProgramName">
+	<"Release_">"1"</"Release_">
+	<"Version">"0"</"Version">
+	<"ReportType">"Design Issue"</"ReportType">
+	<"Severity">"Severe"</"Severity">
+	<"ProblemSummary">"kwefkj3;qjfqw;0ijf"</"ProblemSummary">
+	<"Reproducible">"Yes"</"Reproducible">
+	<"Problem">" eheoihfowenclwejnc.o"</"Problem">
+	<"SuggestedFix">" ifjf0ewahfw0fsd0icjw;ojf"</"SuggestedFix">
+	<"ReportedBy">"KSB"</"ReportedBy">
+	<"ReportedDate">"2015-06-30"</"ReportedDate">
+	<"FunctionalArea">" "</"FunctionalArea">
+	<"AssignedTo">" "</"AssignedTo">
+	<"Comments">""</"Comments">
+	<"Status">"Open"</"Status">
+	<"Priority">" "</"Priority">
+	<"Resolution">" "</"Resolution">
+	<"ResolutionVersion">""</"ResolutionVersion">
+	<"ResolvedBy">" "</"ResolvedBy">
+	<"ResolvedDate">""</"ResolvedDate">
+	<"TestedBy">""</"TestedBy">
+	<"TestedDate">""</"TestedDate">
+	<"TreatAsDeffered">""</"TreatAsDeffered">
+	<"Attachment">""</"Attachment">
+</Buginfo> 
+<Buginfo> 
+	<"BugID">"1022"</"BugID">
+	<"ProgramName">"java"</"ProgramName">
+	<"Release_">"1"</"Release_">
+	<"Version">"1.01"</"Version">
+	<"ReportType">"Coding Error"</"ReportType">
+	<"Severity">"Severe"</"Severity">
+	<"ProblemSummary">"xxxxxxxxxxxxxxxxxxxxxx"</"ProblemSummary">
+	<"Reproducible">"Yes"</"Reproducible">
+	<"Problem">" xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"</"Problem">
+	<"SuggestedFix">"xxxxxxxxxxxxxxxxxxxx"</"SuggestedFix">
+	<"ReportedBy">"Mike"</"ReportedBy">
+	<"ReportedDate">"2015-06-30"</"ReportedDate">
+	<"FunctionalArea">" "</"FunctionalArea">
+	<"AssignedTo">" "</"AssignedTo">
+	<"Comments">""</"Comments">
+	<"Status">"Open"</"Status">
+	<"Priority">" "</"Priority">
+	<"Resolution">" "</"Resolution">
+	<"ResolutionVersion">""</"ResolutionVersion">
+	<"ResolvedBy">" "</"ResolvedBy">
+	<"ResolvedDate">""</"ResolvedDate">
+	<"TestedBy">""</"TestedBy">
+	<"TestedDate">""</"TestedDate">
+	<"TreatAsDeffered">""</"TreatAsDeffered">
+	<"Attachment">""</"Attachment">
+</Buginfo> 
